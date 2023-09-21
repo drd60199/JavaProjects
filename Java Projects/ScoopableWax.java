@@ -1,3 +1,6 @@
+
+//My wife asked me to make something simple for her to calculate her candle wax recipe.
+
 import java.util.Scanner;
 
 
