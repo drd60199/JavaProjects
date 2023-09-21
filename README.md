@@ -4,3 +4,7 @@ The goal of these small projects are for me to learn Java programming concepts. 
 
 Please feel free to view my code and make suggestions!
 
+Sources:
+
+https://youtu.be/A74TOX803D0?si=e7DkR8M4pp-PTqKs
+
