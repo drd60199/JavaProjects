@@ -1,0 +1,48 @@
+# IDE-specific files
+.vscode/         # Visual Studio Code
+*.suo            # Visual Studio User Options
+*.user           # Visual Studio User Options
+*.userosscache   # Visual Studio User Options cache
+*.sln.docstates  # Visual Studio Solution User Options
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Directories typically used for build artifacts
+/bin/
+/out/
+/build/
+/target/
+/dist/
+/obj/
+/.gradle/
+/.mvn/
+
+# OS-specific files
+ehthumbs.db     # Windows
+Thumbs.db       # Windows
+desktop.ini     # Windows
+$RECYCLE.BIN/   # Windows
+*.lnk           # Windows
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.retry
+
+# Others
+*.pid
+*.seed
+*.pid.lock
